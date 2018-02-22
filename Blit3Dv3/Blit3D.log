@@ -1,0 +1,9 @@
+[2017-05-20 14:12:45][Info]	Context reports FSAA is available with 8samples
+[2017-05-20 14:12:45][Info]	Requesting FSAA with 8samples
+[2017-05-20 14:12:45][Info]	1 monitor detected.
+[2017-05-20 14:12:45][Info]	Renderer: Intel(R) HD Graphics 530
+[2017-05-20 14:12:45][Info]	OpenGL version supported: 4.4.0 - Build 21.20.16.4550
+[2017-05-20 14:12:45][Info]	Creating TextureManager with 31 maximum bound textures
+[2017-05-20 14:13:46][Info]	Terminated Blit3D
+[2017-05-20 14:13:46][Warning]	Tried to free texture DebugFont_24.png but it isn't loaded currently
+[2017-05-20 14:13:46][Info]	TextureManager destroyed

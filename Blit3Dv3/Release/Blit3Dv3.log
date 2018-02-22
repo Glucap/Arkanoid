@@ -1,0 +1,61 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (Blit3Dv3.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  BallEntity.cpp
+  AngelcodeFont.cpp
+  BFont.cpp
+  Blit3D.cpp
+  ByteSwap.cpp
+  glslprogram.cpp
+  glutils.cpp
+  Logger.cpp
+  RenderBuffer.cpp
+  ShaderManager.cpp
+  Sprite.cpp
+  TextureManager.cpp
+  BrickEntity.cpp
+  Entity.cpp
+  main.cpp
+d:\programing\arkanoid\blit3dv3\LevelLoader.h(35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+main.cpp(149): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+main.cpp(419): warning C4305: '=': truncation from 'double' to 'float32'
+main.cpp(497): warning C4018: '<': signed/unsigned mismatch
+main.cpp(533): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+main.cpp(573): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+main.cpp(641): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+main.cpp(726): warning C4018: '<': signed/unsigned mismatch
+main.cpp(738): warning C4018: '<': signed/unsigned mismatch
+main.cpp(750): warning C4018: '<': signed/unsigned mismatch
+  MyContactListener.cpp
+  PaddleEntity.cpp
+  Particle.cpp
+Particle.cpp(70): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Particle.cpp(71): warning C4018: '>': signed/unsigned mismatch
+  Physics.cpp
+Physics.cpp(12): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+Physics.cpp(22): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+Physics.cpp(27): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+Physics.cpp(32): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  PowerUpEntity.cpp
+  glew.c
+  context.c
+Blit3DBaseFiles\GLFW\context.c(377): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
+  egl_context.c
+  init.c
+  input.c
+  monitor.c
+  vulkan.c
+  wgl_context.c
+  win32_init.c
+  win32_joystick.c
+  win32_monitor.c
+Blit3DBaseFiles\GLFW\win32_monitor.c(68): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+Blit3DBaseFiles\GLFW\win32_monitor.c(77): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  win32_time.c
+  win32_tls.c
+  win32_window.c
+  window.c
+  Generating code
+  All 3643 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Blit3Dv3.vcxproj -> D:\Programing\Arkanoid\Release\Drokanoid.exe
+  Blit3Dv3.vcxproj -> D:\Programing\Arkanoid\Release\Drokanoid.pdb (Full PDB)
